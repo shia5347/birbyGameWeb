@@ -1,3 +1,0 @@
-# birbyGameWeb
-
-Made with Godot
